@@ -1,6 +1,7 @@
 # Description
 
-![Screenshot 2025-02-24 134012](https://github.com/user-attachments/assets/8b677f4c-3b2a-43fe-933d-9c4e17aa2702)
+![Uploading Screenshot 2025-02-24 134012.png…]()
+
 
 This tool for Dos Attack & Recon(OSINT).
 
