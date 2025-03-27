@@ -1260,7 +1260,7 @@ showreadme()
     echo "           Youtube : https://www.youtube.com/@ak404z             "
     echo "            Tiktok : https://www.tiktok.com/@ak404z             "
     echo "               X   : https://x.com/ak404z            "
-    echo "         Instagran : https://www.instagram.com/ak404z            "
+    echo "         Instagram : https://www.instagram.com/ak404z            "
     echo "==========================================================="
     echo ""
     mainmenu
