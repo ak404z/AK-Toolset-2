@@ -12,9 +12,9 @@ Step 1 : git clone https://github.com/ak404z/AK-Toolset-2.git
 
 Step 2 : Download libraries to run the tool
 
-Step 3 : Change permision to excute wrire (chmod +x AK_Toolset2.sh.x)
+Step 3 : Change permision to excute wrire (chmod +x AK_Toolset2.sh)
 
-Step 4 : To run the tool Write in Terminal (./AK_Toolset2.sh.x)
+Step 4 : To run the tool Write in Terminal (./AK_Toolset2.sh)
 
 # Usage
 
